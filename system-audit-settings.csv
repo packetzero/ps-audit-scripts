@@ -20,3 +20,16 @@ SF,Credential Validation
 - ,Kerberos Service Ticket Operations
 SF,Other Account Logon Events
 
+===,Privilege Use
+
+- ,Non Sensitive Privilege Use
+- ,Other Privilege Use Events
+SF,Sensitive Privilege Use
+
+===,System
+
+S ,IPsec Driver
+F ,Other System Events
+SF,Security State Change
+SF,Security System Extension
+SF,System Integrity
