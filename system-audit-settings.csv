@@ -1,0 +1,22 @@
+
+===,Logon/Logoff
+
+S , Account Lockout
+S , Group Membership
+S , Logoff
+SF, Logon
+SF, Network Policy Server
+SF, Other Logon/Logoff Events
+SF, Special Logon
+- , IPsec Main Mode
+- , IPsec Extended Mode
+- , IPsec Quick Mode
+- , User / Device Claims
+
+===,Account Logon
+
+SF,Credential Validation
+- ,Kerberos Authentication Service
+- ,Kerberos Service Ticket Oper
+SF,Other Account Logon Events
+
