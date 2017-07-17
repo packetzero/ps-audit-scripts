@@ -17,6 +17,6 @@ SF, Special Logon
 
 SF,Credential Validation
 - ,Kerberos Authentication Service
-- ,Kerberos Service Ticket Oper
+- ,Kerberos Service Ticket Operations
 SF,Other Account Logon Events
 
